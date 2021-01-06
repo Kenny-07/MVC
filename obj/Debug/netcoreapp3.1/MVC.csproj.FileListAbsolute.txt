@@ -1,0 +1,13 @@
+C:\Users\Alan\Desktop\C# Aula 1\MVC\obj\Debug\netcoreapp3.1\MVC.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\C# Aula 1\MVC\obj\Debug\netcoreapp3.1\MVC.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\MVC\obj\Debug\netcoreapp3.1\MVC.AssemblyInfo.cs
+C:\Users\Alan\Desktop\C# Aula 1\MVC\obj\Debug\netcoreapp3.1\MVC.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\MVC\bin\Debug\netcoreapp3.1\MVC.exe
+C:\Users\Alan\Desktop\C# Aula 1\MVC\bin\Debug\netcoreapp3.1\MVC.deps.json
+C:\Users\Alan\Desktop\C# Aula 1\MVC\bin\Debug\netcoreapp3.1\MVC.runtimeconfig.json
+C:\Users\Alan\Desktop\C# Aula 1\MVC\bin\Debug\netcoreapp3.1\MVC.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\C# Aula 1\MVC\bin\Debug\netcoreapp3.1\MVC.dll
+C:\Users\Alan\Desktop\C# Aula 1\MVC\bin\Debug\netcoreapp3.1\MVC.pdb
+C:\Users\Alan\Desktop\C# Aula 1\MVC\obj\Debug\netcoreapp3.1\MVC.dll
+C:\Users\Alan\Desktop\C# Aula 1\MVC\obj\Debug\netcoreapp3.1\MVC.pdb
+C:\Users\Alan\Desktop\C# Aula 1\MVC\obj\Debug\netcoreapp3.1\MVC.genruntimeconfig.cache
